@@ -1,3 +1,3 @@
-# BED Final Project Starter
+# BED Final Project Booking Api
 
 Arif Erdemir
